@@ -8,13 +8,15 @@
 
 <h3>The model achieved 83% accuracy on the test set.</h3>
 
-![Screenshot (3)](https://user-images.githubusercontent.com/56645508/94910442-5ae42600-04c2-11eb-8274-39af1d8d4859.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/56645508/94913622-350d5000-04c7-11eb-98cb-87d7f61ecbe2.png)
+
 
 <br>
 <br>
 <br>
 
-![Screenshot (4)](https://user-images.githubusercontent.com/56645508/94910532-77805e00-04c2-11eb-8cbf-4f923074c669.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/56645508/94913652-40607b80-04c7-11eb-8aec-41dccc679fc2.png)
+
 
 
 
